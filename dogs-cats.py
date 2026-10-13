@@ -7,8 +7,6 @@ x2 = tf.constant([5,6,7,8])
 # Multiply
 result = tf.multiply(x1, x2)
 
-# Print the result
-
-
+# Print the result a
 
 print(result)
