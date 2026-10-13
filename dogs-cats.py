@@ -9,4 +9,5 @@ result = tf.multiply(x1, x2)
 
 # Print the result a abc
 
+
 print(result + 'abcd')
